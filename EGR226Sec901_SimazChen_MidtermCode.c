@@ -2,7 +2,7 @@
 /**************************************************************
  * Name: Wayne Chen & Chris Simaz
  * Date: 10-29-18
- * Program: EGR226 Sec 901, Professor Neuson, Midterm Code
+ * Program: EGR226 Sec 901, Professor Neuson, Midterm
  * Description: This code runs the objectives stated in the
                 document. These descriptions may be found in
                 the lab report
